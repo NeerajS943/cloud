@@ -1,0 +1,66 @@
+
+h1{
+    font-weight: bold;
+    font-size: 24px;
+}
+p{
+  
+  color: rgb(0, 0, 3);
+  margin-right: 150px;
+  margin-left: 80px;
+  font-style: times;
+  font-weight: bold;
+  font-size: 18px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  ol{
+    color: rgb(0, 0, 3);
+  margin-right: 150px;
+  margin-left: 80px;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 18px;
+
+  }
+  body {
+    background-image: url('indianflag.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+ 
+  button {
+    background-color: #000000; 
+    border: 2px solid #ffffff;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 50px;
+
